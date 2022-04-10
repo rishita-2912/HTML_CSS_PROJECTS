@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+  font-family: 'Praise', cursive;
+}
+
+.V{
+  margin:auto;
+}
+td{
+  background-color: blue;
+  height:250px;
+  width:150px;
+  border: 5px solid white;
+}
+#one{
+  background-color: #0077B6;
+}
+#two{
+  background-color: #0096C7;
+}
+#three{
+  background-color: #00B4D8;
+}
+#four{
+  background-color: #48CAE4;
+}
+#five{
+  background-color: #90E0EF;
+}
